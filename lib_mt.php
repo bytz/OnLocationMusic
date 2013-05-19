@@ -1,7 +1,7 @@
 <?php
-define('MT_USER','vlad.teo@gmx.com');
-define('MT_PASSWORD','motherfucker');
-define('MT_TOKEN','4439468724');
+define('MT_USER','');
+define('MT_PASSWORD','');
+define('MT_TOKEN','');
 
 function mt_login()
 {
